@@ -124,7 +124,7 @@ The TinyStories experiments aim at removing a knowledge of a language from a mod
 #### Dataset
 
 The bilingual English-Spanish TinyStories dataset is available on HuggingFace:
-- **Dataset**: [`ffuuugor/tinystories-spanish`](https://huggingface.co/datasets/ffuuugor/tinystories_spanish) (derived from [roneneldan/TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories))
+- **Dataset**: `<REDACTED>` (derived from [roneneldan/TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories))
 - **Translation**: The dataset was originally in English. The Spanish translation was created using `src/sgtm/data/translate_to_spanish.py`
 
 #### Data Preparation

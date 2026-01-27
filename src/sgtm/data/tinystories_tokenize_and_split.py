@@ -37,7 +37,7 @@ def main():
     parser.add_argument(
         "--dataset-name",
         type=str,
-        default="ffuuugor/tinystories-spanish",
+        required=True,
         help="HuggingFace dataset name to load",
     )
     parser.add_argument(

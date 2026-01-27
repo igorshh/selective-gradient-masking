@@ -1,7 +1,7 @@
 #!/bin/bash
 set -eou pipefail
 
-HF_DATASET="ffuuugor/tinystories_spanish"
+HF_DATASET="<REDACTED>"
 OUTPUT_DIR="data/datasets/tinystories_split"
 
 python -m sgtm.data.tinystories_tokenize_and_split \
