@@ -220,9 +220,3 @@ The `rmu.sh` script implements the RMU baseline method, which performs unlearnin
 
 - **`notebooks/wiki/retain_forget_tradeoff.ipynb`**: Produces 2D trade-off plots comparing forget loss (Biology) against retain loss (Culture/Geography/History) and forget-adjacent loss (Medicine/Chemistry/Environment)
 - **`notebooks/wiki/finetuning.ipynb`**: Analyzes model performance during finetuning, comparing how different unlearning methods (RMU, filters, SGTM) hold up under continued training
-
-## Citation
-
-```bibtex
-(Citation will be added upon paper publication)
-```
